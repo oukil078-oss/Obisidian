@@ -1,0 +1,21 @@
+# Obsidian vault sync
+# Ignore vault UI/cache files
+.obsidian/workspace*.json
+.obsidian/cache
+.obsidian/plugins/*/data.json
+.obsidian/graph.json
+
+# Keep vault config
+!.obsidian/app.json
+!.obsidian/appearance.json
+!.obsidian/community-plugins.json
+!.obsidian/graph.json
+
+# Ignore secrets/credentials by default (stored separately in vault .obsidian/secrets)
+.obsidian/secrets/
+
+# General git ignores
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
