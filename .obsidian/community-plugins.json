@@ -1,5 +1,6 @@
 [
   "google-drive-sync",
   "templater-obsidian",
-  "dataview"
+  "dataview",
+  "obsidian-local-rest-api"
 ]
