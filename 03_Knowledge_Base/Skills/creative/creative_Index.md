@@ -1,0 +1,21 @@
+# creative Index
+
+
+
+## Directory Links
+- [[architecture-diagram]]
+- [[ascii-art]]
+- [[ascii-video]]
+- [[baoyu-infographic]]
+- [[claude-design]]
+- [[comfyui]]
+- [[design-md]]
+- [[excalidraw]]
+- [[humanizer]]
+- [[manim-video]]
+- [[p5js]]
+- [[popular-web-designs]]
+- [[pretext]]
+- [[sketch]]
+- [[songwriting-and-ai-music]]
+- [[touchdesigner-mcp]]
